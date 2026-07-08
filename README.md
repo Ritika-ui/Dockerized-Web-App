@@ -8,7 +8,6 @@ https://docker-ci-cd-qe2b.onrender.com
 ## 📌 Overview
 
 This project demonstrates a complete DevOps workflow:
-
 * Containerized backend application using Docker
 * Reverse proxy setup using Nginx
 * Automated CI pipeline using GitHub Actions
@@ -26,7 +25,6 @@ This project demonstrates a complete DevOps workflow:
 ---
 
 ## 🔁 Project Flow
-
 Browser → Nginx → Backend (Port 5000)
 
 CI Flow:
